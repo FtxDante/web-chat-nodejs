@@ -1,0 +1,19 @@
+{
+  "name": "web-chat-nodejs",
+  "version": "1.0.0",
+  "description": "Building a Real-Time Chat App using Node.js and WebSocket",
+  "main": "dist/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FtxDante/web-chat-nodejs.git"
+  },
+  "author": "Paulo Tenorio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FtxDante/web-chat-nodejs/issues"
+  },
+  "homepage": "https://github.com/FtxDante/web-chat-nodejs#readme"
+}
